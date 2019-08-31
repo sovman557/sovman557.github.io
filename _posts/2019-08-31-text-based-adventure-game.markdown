@@ -3,7 +3,7 @@ layout: post
 title: "Text-based adventure game"
 date: 2017-04-06 13:32:20 +0300
 description: text-based adbventure game. # Add post description (optional)
-img:  # Add image post (optional)
+img:  mac.jpg # Add image post (optional)
 ---
 
 
