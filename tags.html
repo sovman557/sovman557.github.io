@@ -14,7 +14,7 @@ permalink: /tags/
     <li ><a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
   {% endfor %}
   </ul>
-<!--cycles through tag list and creates subheader for each tag/ name...-->
+<!--cycles through tag list and creates subheader for each tag// name...-->
   {% for this_word in tag_words %}
   <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
 <!--  lists all posts corresponding to specific tag...-->
